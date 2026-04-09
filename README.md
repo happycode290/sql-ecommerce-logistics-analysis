@@ -153,12 +153,4 @@ WHERE completed_at IS NOT NULL
 
 -` Improves batching, packing, and delivery operations`
 
-
-## 📎 Project File
-
-The complete research report is available in this repository as a PDF.
-
-## 👤 Author
-
-### Avinash Kumar Kanojiya
 Aspirant Data Analyst | SQL | Power BI | Python
